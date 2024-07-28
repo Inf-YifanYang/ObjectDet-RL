@@ -6,4 +6,4 @@ Framework for Refining Object Detection with Reinforcement Learning
 
 ## Framework
 
-<img src="figures/framework" alt="before_index" width="700"/>
+<img src="figures/framework.png" alt="before_index" width="700"/>
