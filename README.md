@@ -21,6 +21,9 @@ The framework have two essential components, a base detector, and an agent that 
 <img src="figures/action.png" alt="action" width="700"/>
 
 ## Training
+Reinforcement learning with proximal policy optimization (PPO):
+
+<img src="figures/rewards.png" alt="rewards" width="700"/>
 
 
 ## Examples
