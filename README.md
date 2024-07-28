@@ -12,7 +12,7 @@ The framework have two essential components, a base detector, and an agent that 
 
 <img src="figures/framework.png" alt="framework" width="700"/>
 
-## Action
+## Action Space
 * action to move the box in the horizontal axes
 * action to move the box in the vertical axes
 * action to change the width of the box
