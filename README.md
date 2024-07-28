@@ -11,7 +11,8 @@ The framework have two essential components, a base detector, and an agent that 
 <img src="figures/framework.png" alt="before_index" width="700"/>
 
 ## Examples
-Before refinement: Object detection results from base detector, Faster-RCNN.
-After RL refinement: The final refined results from the reinforcement learning agent performing iterative refinement.
+* Before refinement: Object detection results from base detector, Faster-RCNN.
+
+* After RL refinement: The final refined results from the reinforcement learning agent performing iterative refinement.
 
 <img src="figures/exmpl_imgs.png" alt="before_index" width="700"/>
