@@ -2,6 +2,8 @@
 Framework for Refining Object Detection with Reinforcement Learning
 - [Framework](#Framework)
 - [Usage](#usage)
+- [Action](#Action)
+- [Training](#Training)
 - [Examples](#Examples)
 
 ## Framework
@@ -17,6 +19,9 @@ The framework have two essential components, a base detector, and an agent that 
 * action to change the height of the box
 
 <img src="figures/action.png" alt="action" width="700"/>
+
+## Training
+
 
 ## Examples
 * Before refinement: Object detection results from base detector, Faster-RCNN.
