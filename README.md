@@ -2,7 +2,7 @@
 Framework for Refining Object Detection with Reinforcement Learning
 - [Framework](#Framework)
 - [Usage](#usage)
-- [Examples](#Examples)
+- [Refined Examples](#Examples)
 
 ## Framework
 
@@ -10,7 +10,7 @@ The framework have two essential components, a base detector, and an agent that 
 
 <img src="figures/framework.png" alt="before_index" width="700"/>
 
-## Examples
+## Refined Examples
 * Before refinement: Object detection results from base detector, Faster-RCNN.
 
 * After RL refinement: The final refined results from the reinforcement learning agent performing iterative refinement.
